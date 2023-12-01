@@ -14,8 +14,9 @@ C programs are compiled using the GNU Compiler (GCC) and executed in the Linux t
 - [x] Install dependencies \
 ***How to install gcc on ubuntu 18.04...***
 
-**Use a text editor to write a C program** \
-Open the C program file (`runtheprogram.c`) in your preferred text editor, for example, using:
+**Use a text editor to write a C program** 
+
+Open the C program file `runtheprogram.c` in your preferred text editor, for example, using:
 ```bash
 gedit runtheprogram.c
 ```
@@ -33,6 +34,7 @@ gcc runtheprogram.c -o experiment
 ```bash
 ./experiment
 ```
+Take a look at the `runtheprogram.c` file below. It's used as a simple example to demonstrate how to run a C program in Linux using GCC.
 
 ![Screenshot](run-the-program-2.png?raw=true)
 
