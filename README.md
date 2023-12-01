@@ -6,6 +6,8 @@
 
 > **Note:** To view the code in the GitHub repository with proper formatting, make sure to change the tab size from the default **8** to **4**. You can adjust this setting in `GitHub > Settings > Appearance > Tab Size Preference`.
 
+Click the badge below to instantly run and interact with the code on Replit:
+
 [![Badge](badges/badge-4.svg?raw=true&sanitize=true)](https://replit.com/@jagatpandya/command-line-banking-application-c-project?v=1)
 
 ## Running the C Program on Linux with GCC
