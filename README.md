@@ -7,7 +7,7 @@
 > **Note:** To view the code in the GitHub repository with proper formatting, make sure to change the tab size from the default **8** to **4**. You can adjust this setting in `GitHub > Settings > Appearance > Tab Size Preference`.
 
 ## Running the C Program on Linux with GCC
-C programs are compiled using the GNU Compiler (GCC) and executed in the Linux terminal. Follow the steps below to run the program: 
+This C program was compiled using the GNU Compiler (GCC) and executed in the Linux terminal. Follow the steps below to run the program:
 
 ![Screenshot](run-the-program-1.png?raw=true)
 
