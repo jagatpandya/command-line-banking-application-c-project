@@ -25,7 +25,7 @@ gedit runtheprogram.c
 cat runtheprogram.c
 ```
 **Compile the C program**
-> **Note:** This command will invoke the GNU Compiler (GCC) to compile the file `runtheprogram.c` and output (-o) the result to an executable called `experiment`.
+> **Note:** This command will invoke the GNU Compiler (GCC) to compile the file `runtheprogram.c` and output (-o) the result to an executable named `experiment`.
 
 ```bash
 gcc runtheprogram.c -o experiment
