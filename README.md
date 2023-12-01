@@ -6,7 +6,7 @@
 
 > **Note:** To view the code in the GitHub repository with proper formatting, make sure to change the tab size from the default **8** to **4**. You can adjust this setting in `GitHub > Settings > Appearance > Tab Size Preference`.
 
-## Running a C Program on Linux with GCC
+## Running the C Program on Linux with GCC
 C programs are compiled using the GNU Compiler (GCC) and executed in the Linux terminal. Follow the steps below to run the program: 
 
 ![Screenshot](run-the-program-1.png?raw=true)
@@ -19,11 +19,11 @@ Open the C program file (`runtheprogram.c`) in your preferred text editor, for e
 ```bash
 gedit runtheprogram.c
 ```
-**Check a C program**
+**Check the C program**
 ```bash
 cat runtheprogram.c
 ```
-**Compile a C program**
+**Compile the C program**
 > **Note:** This command will invoke the GNU Compiler (GCC) to compile the file `runtheprogram.c` and output (-o) the result to an executable called `experiment`.
 
 ```bash
