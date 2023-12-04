@@ -1,5 +1,5 @@
 # Command-Line Banking Application
-This program was a lab practice and evolved into a simple command-line banking application written in C. It empowers users to create accounts, each assigned a unique account number for new entries. With this application, users can seamlessly perform various banking operations, including adding funds, making withdrawals and checking account details.
+This program started as a lab practice and evolved into a simple command-line banking application written in C. It empowers users to create accounts, each assigned a unique account number for new entries. With this application, users can seamlessly perform various banking operations, including adding funds, making withdrawals and checking account details.
 
 ![Screenshot](banking-application.gif?raw=true)
 
