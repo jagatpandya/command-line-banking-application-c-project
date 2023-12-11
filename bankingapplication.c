@@ -4,7 +4,7 @@
 
 int n = 0, i = 1001;
 
-// structure declaration
+// Structure declaration
 struct BankAccount {
 	char bank_name[25];
 	char bank_branch[20];
@@ -12,7 +12,7 @@ struct BankAccount {
 	int account_number;
 	char account_holder_address[100];
 	float available_balance;
-} account[51]; // array of structure
+} account[51]; // Array of structure
 
 void display_options();
 void create_new_account();
@@ -20,7 +20,7 @@ void cash_deposit();
 void cash_withdraw();
 void account_information();
 
-// main function
+// Main function
 int main() {
 	int option;
 	
@@ -65,7 +65,7 @@ int main() {
 	return 0;
 }
 
-// function to display options
+// Function to display options
 void display_options() {
 	printf("1. Create a new account\n");
 	printf("2. Cash deposit\n");
@@ -75,7 +75,7 @@ void display_options() {
 	printf("6. Clear the screen and display options\n");
 }
 
-// function to create a new account
+// Function to create a new account
 void create_new_account() {
 	char bank_name[25];
 	char bank_branch[20];
@@ -119,7 +119,7 @@ void create_new_account() {
 	i++;
 }
 
-// function to deposit cash
+// Function to deposit cash
 void cash_deposit() {
 	auto int account_number, amount, m = 0;
 	
@@ -146,7 +146,7 @@ void cash_deposit() {
 	}
 }
 
-// function to withdraw cash
+// Function to withdraw cash
 void cash_withdraw() {
 	auto int account_number, amount, m = 0;
 	
@@ -178,7 +178,7 @@ void cash_withdraw() {
 	}
 }
 
-// function to display account information
+// Function to display account information
 void account_information() {
     auto int account_number, m = 0;
 	
